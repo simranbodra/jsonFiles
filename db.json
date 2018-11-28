@@ -1,1447 +1,843 @@
-{"jsondata": [
-    {
-      "date": 20110101,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110102,
-      "comparison_type": 112
-    },
-    {
-      "date": 20110103,
-      "comparison_type": 223
-    },
-    {
-      "date": 20110104,
-      "comparison_type": 332
-    },
-    {
-      "date": 20110105,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110106,
-      "comparison_type": 112
-    },
-    {
-      "date": 20110107,
-      "comparison_type": 223
-    },
-    {
-      "date": 20110108,
-      "comparison_type": 332
-    },
-    {
-      "date": 20110109,
-      "comparison_type": 1212
-    },
-    {
-      "date": 20110110,
-      "comparison_type": 1234
-    },
-    {
-      "date": 20110111,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110112,
-      "comparison_type": 213
-    },
-    {
-      "date": 20110113,
-      "comparison_type": 2231
-    },
-    {
-      "date": 20110114,
-      "comparison_type": 1256
-    },
-    {
-      "date": 20110115,
-      "comparison_type": 2231
-    },
-    {
-      "date": 20110116,
-      "comparison_type": 3442
-    },
-    {
-      "date": 20110117,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110118,
-      "comparison_type": 8013
-    },
-    {
-      "date": 20110119,
-      "comparison_type": 1857
-    },
-    {
-      "date": 20110120,
-      "comparison_type": 6085
-    },
-    {
-      "date": 20110121,
-      "comparison_type": 5533
-    },
-    {
-      "date": 20110124,
-      "comparison_type": 3217
-    },
-    {
-      "date": 20110125,
-      "comparison_type": 6966
-    },
-    {
-      "date": 20110126,
-      "comparison_type": 7116
-    },
-    {
-      "date": 20110127,
-      "comparison_type": 2245
-    },
-    {
-      "date": 20110128,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110129,
-      "comparison_type": 8133
-    },
-    {
-      "date": 20110130,
-      "comparison_type": 8463
-    },
-    {
-      "date": 20110131,
-      "comparison_type": 204
-    },
-    {
-      "date": 20110201,
-      "comparison_type": 3996
-    },
-    {
-      "date": 20110202,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110203,
-      "comparison_type": 3072
-    },
-    {
-      "date": 20110204,
-      "comparison_type": 6501
-    },
-    {
-      "date": 20110205,
-      "comparison_type": 4067
-    },
-    {
-      "date": 20110206,
-      "comparison_type": 8656
-    },
-    {
-      "date": 20110207,
-      "comparison_type": 2262
-    },
-    {
-      "date": 20110208,
-      "comparison_type": 3688
-    },
-    {
-      "date": 20110209,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110210,
-      "comparison_type": 4007
-    },
-    {
-      "date": 20110211,
-      "comparison_type": 1996
-    },
-    {
-      "date": 20110212,
-      "comparison_type": 1562
-    },
-    {
-      "date": 20110213,
-      "comparison_type": 2194
-    },
-    {
-      "date": 20110214,
-      "comparison_type": 6053
-    },
-    {
-      "date": 20110215,
-      "comparison_type": 6378
-    },
-    {
-      "date": 20110216,
-      "comparison_type": 2295
-    },
-    {
-      "date": 20110217,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110218,
-      "comparison_type": 4142
-    },
-    {
-      "date": 20110219,
-      "comparison_type": 4893
-    },
-    {
-      "date": 20110220,
-      "comparison_type": 9219
-    },
-    {
-      "date": 20110221,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110222,
-      "comparison_type": 7348
-    },
-    {
-      "date": 20110223,
-      "comparison_type": 416
-    },
-    {
-      "date": 20110224,
-      "comparison_type": 1498
-    },
-    {
-      "date": 20110225,
-      "comparison_type": 9539
-    },
-    {
-      "date": 20110226,
-      "comparison_type": 3540
-    },
-    {
-      "date": 20110227,
-      "comparison_type": 3179
-    },
-    {
-      "date": 20110228,
-      "comparison_type": 7924
-    },
-    {
-      "date": 20110301,
-      "comparison_type": 6524
-    },
-    {
-      "date": 20110302,
-      "comparison_type": 6809
-    },
-    {
-      "date": 20110303,
-      "comparison_type": 9056
-    },
-    {
-      "date": 20110304,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110305,
-      "comparison_type": 5073
-    },
-    {
-      "date": 20110306,
-      "comparison_type": 277
-    },
-    {
-      "date": 20110307,
-      "comparison_type": 1109
-    },
-    {
-      "date": 20110308,
-      "comparison_type": 3792
-    },
-    {
-      "date": 20110309,
-      "comparison_type": 6168
-    },
-    {
-      "date": 20110310,
-      "comparison_type": 8151
-    },
-    {
-      "date": 20110311,
-      "comparison_type": 3475
-    },
-    {
-      "date": 20110312,
-      "comparison_type": 1431
-    },
-    {
-      "date": 20110313,
-      "comparison_type": 5411
-    },
-    {
-      "date": 20110314,
-      "comparison_type": 7660
-    },
-    {
-      "date": 20110315,
-      "comparison_type": 904
-    },
-    {
-      "date": 20110316,
-      "comparison_type": 3975
-    },
-    {
-      "date": 20110317,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110318,
-      "comparison_type": 9095
-    },
-    {
-      "date": 20110319,
-      "comparison_type": 3632
-    },
-    {
-      "date": 20110320,
-      "comparison_type": 9239
-    },
-    {
-      "date": 20110321,
-      "comparison_type": 6963
-    },
-    {
-      "date": 20110322,
-      "comparison_type": 2054
-    },
-    {
-      "date": 20110323,
-      "comparison_type": 6815
-    },
-    {
-      "date": 20110324,
-      "comparison_type": 9126
-    },
-    {
-      "date": 20110325,
-      "comparison_type": 7984
-    },
-    {
-      "date": 20110326,
-      "comparison_type": 9858
-    },
-    {
-      "date": 20110327,
-      "comparison_type": 4589
-    },
-    {
-      "date": 20110328,
-      "comparison_type": 4104
-    },
-    {
-      "date": 20110329,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110330,
-      "comparison_type": 754
-    },
-    {
-      "date": 20110331,
-      "comparison_type": 4618
-    },
-    {
-      "date": 20110401,
-      "comparison_type": 772
-    },
-    {
-      "date": 20110402,
-      "comparison_type": 5671
-    },
-    {
-      "date": 20110403,
-      "comparison_type": 5746
-    },
-    {
-      "date": 20110404,
-      "comparison_type": 1083
-    },
-    {
-      "date": 20110405,
-      "comparison_type": 711
-    },
-    {
-      "date": 20110406,
-      "comparison_type": 3861
-    },
-    {
-      "date": 20110407,
-      "comparison_type": 676
-    },
-    {
-      "date": 20110408,
-      "comparison_type": 378
-    },
-    {
-      "date": 20110409,
-      "comparison_type": 4003
-    },
-    {
-      "date": 20110410,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110411,
-      "comparison_type": 4538
-    },
-    {
-      "date": 20110412,
-      "comparison_type": 6333
-    },
-    {
-      "date": 20110413,
-      "comparison_type": 5417
-    },
-    {
-      "date": 20110414,
-      "comparison_type": 2249
-    },
-    {
-      "date": 20110415,
-      "comparison_type": 9820
-    },
-    {
-      "date": 20110416,
-      "comparison_type": 7295
-    },
-    {
-      "date": 20110417,
-      "comparison_type": 5206
-    },
-    {
-      "date": 20110418,
-      "comparison_type": 588
-    },
-    {
-      "date": 20110419,
-      "comparison_type": 1972
-    },
-    {
-      "date": 20110420,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110421,
-      "comparison_type": 4886
-    },
-    {
-      "date": 20110422,
-      "comparison_type": 8640
-    },
-    {
-      "date": 20110424,
-      "comparison_type": 8988
-    },
-    {
-      "date": 20110425,
-      "comparison_type": 7204
-    },
-    {
-      "date": 20110426,
-      "comparison_type": 1693
-    },
-    {
-      "date": 20110427,
-      "comparison_type": 7830
-    },
-    {
-      "date": 20110428,
-      "comparison_type": 4699
-    },
-    {
-      "date": 20110429,
-      "comparison_type": 1337
-    },
-    {
-      "date": 20110501,
-      "comparison_type": 9617
-    },
-    {
-      "date": 20110502,
-      "comparison_type": 5378
-    },
-    {
-      "date": 20110503,
-      "comparison_type": 565
-    },
-    {
-      "date": 20110504,
-      "comparison_type": 5329
-    },
-    {
-      "date": 20110505,
-      "comparison_type": 6859
-    },
-    {
-      "date": 20110506,
-      "comparison_type": 7659
-    },
-    {
-      "date": 20110507,
-      "comparison_type": 7455
-    },
-    {
-      "date": 20110508,
-      "comparison_type": 2214
-    },
-    {
-      "date": 20110509,
-      "comparison_type": 1849
-    },
-    {
-      "date": 20110510,
-      "comparison_type": 5250
-    },
-    {
-      "date": 20110511,
-      "comparison_type": 2869
-    },
-    {
-      "date": 20110512,
-      "comparison_type": 6644
-    },
-    {
-      "date": 20110513,
-      "comparison_type": 8971
-    },
-    {
-      "date": 20110514,
-      "comparison_type": 8279
-    },
-    {
-      "date": 20110515,
-      "comparison_type": 9403
-    },
-    {
-      "date": 20110516,
-      "comparison_type": 3814
-    },
-    {
-      "date": 20110517,
-      "comparison_type": 9133
-    },
-    {
-      "date": 20110518,
-      "comparison_type": 1383
-    },
-    {
-      "date": 20110519,
-      "comparison_type": 6781
-    },
-    {
-      "date": 20110520,
-      "comparison_type": 9875
-    },
-    {
-      "date": 20110521,
-      "comparison_type": 3995
-    },
-    {
-      "date": 20110522,
-      "comparison_type": 661
-    },
-    {
-      "date": 20110523,
-      "comparison_type": 9456
-    },
-    {
-      "date": 20110524,
-      "comparison_type": 4515
-    },
-    {
-      "date": 20110525,
-      "comparison_type": 6049
-    },
-    {
-      "date": 20110526,
-      "comparison_type": 5158
-    },
-    {
-      "date": 20110527,
-      "comparison_type": 7553
-    },
-    {
-      "date": 20110528,
-      "comparison_type": 2540
-    },
-    {
-      "date": 20110529,
-      "comparison_type": 1957
-    },
-    {
-      "date": 20110530,
-      "comparison_type": 5016
-    },
-    {
-      "date": 20110531,
-      "comparison_type": 1735
-    },
-    {
-      "date": 20110601,
-      "comparison_type": 440
-    },
-    {
-      "date": 20110602,
-      "comparison_type": 212
-    },
-    {
-      "date": 20110603,
-      "comparison_type": 50
-    },
-    {
-      "date": 20110604,
-      "comparison_type": 55
-    },
-    {
-      "date": 20110605,
-      "comparison_type": 397
-    },
-    {
-      "date": 20110606,
-      "comparison_type": 456
-    },
-    {
-      "date": 20110607,
-      "comparison_type": 322
-    },
-    {
-      "date": 20110608,
-      "comparison_type": 138
-    },
-    {
-      "date": 20110609,
-      "comparison_type": 250
-    },
-    {
-      "date": 20110610,
-      "comparison_type": 488
-    },
-    {
-      "date": 20110611,
-      "comparison_type": 122
-    },
-    {
-      "date": 20110612,
-      "comparison_type": 229
-    },
-    {
-      "date": 20110613,
-      "comparison_type": 86
-    },
-    {
-      "date": 20110614,
-      "comparison_type": 431
-    },
-    {
-      "date": 20110615,
-      "comparison_type": 18
-    },
-    {
-      "date": 20110616,
-      "comparison_type": 119
-    },
-    {
-      "date": 20110617,
-      "comparison_type": 269
-    },
-    {
-      "date": 20110618,
-      "comparison_type": 11
-    },
-    {
-      "date": 20110619,
-      "comparison_type": 207
-    },
-    {
-      "date": 20110620,
-      "comparison_type": 240
-    },
-    {
-      "date": 20110621,
-      "comparison_type": 388
-    },
-    {
-      "date": 20110622,
-      "comparison_type": 354
-    },
-    {
-      "date": 20110623,
-      "comparison_type": 338
-    },
-    {
-      "date": 20110624,
-      "comparison_type": 74
-    },
-    {
-      "date": 20110625,
-      "comparison_type": 303
-    },
-    {
-      "date": 20110626,
-      "comparison_type": 30
-    },
-    {
-      "date": 20110627,
-      "comparison_type": 202
-    },
-    {
-      "date": 20110628,
-      "comparison_type": 299
-    },
-    {
-      "date": 20110629,
-      "comparison_type": 274
-    },
-    {
-      "date": 20110630,
-      "comparison_type": 423
-    },
-    {
-      "date": 20110701,
-      "comparison_type": 1410
-    },
-    {
-      "date": 20110702,
-      "comparison_type": 8233
-    },
-    {
-      "date": 20110703,
-      "comparison_type": 2332
-    },
-    {
-      "date": 20110704,
-      "comparison_type": 9690
-    },
-    {
-      "date": 20110705,
-      "comparison_type": 4472
-    },
-    {
-      "date": 20110706,
-      "comparison_type": 7942
-    },
-    {
-      "date": 20110707,
-      "comparison_type": 6166
-    },
-    {
-      "date": 20110708,
-      "comparison_type": 7725
-    },
-    {
-      "date": 20110709,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110710,
-      "comparison_type": 5064
-    },
-    {
-      "date": 20110711,
-      "comparison_type": 5168
-    },
-    {
-      "date": 20110712,
-      "comparison_type": 5198
-    },
-    {
-      "date": 20110713,
-      "comparison_type": 8023
-    },
-    {
-      "date": 20110714,
-      "comparison_type": 506
-    },
-    {
-      "date": 20110715,
-      "comparison_type": 7170
-    },
-    {
-      "date": 20110716,
-      "comparison_type": 621
-    },
-    {
-      "date": 20110717,
-      "comparison_type": 9054
-    },
-    {
-      "date": 20110718,
-      "comparison_type": 6029
-    },
-    {
-      "date": 20110719,
-      "comparison_type": 8085
-    },
-    {
-      "date": 20110720,
-      "comparison_type": 8
-    },
-    {
-      "date": 20110721,
-      "comparison_type": 8427
-    },
-    {
-      "date": 20110722,
-      "comparison_type": 3034
-    },
-    {
-      "date": 20110723,
-      "comparison_type": 367
-    },
-    {
-      "date": 20110724,
-      "comparison_type": 8882
-    },
-    {
-      "date": 20110725,
-      "comparison_type": 4572
-    },
-    {
-      "date": 20110726,
-      "comparison_type": 4368
-    },
-    {
-      "date": 20110727,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110728,
-      "comparison_type": 3657
-    },
-    {
-      "date": 20110729,
-      "comparison_type": 6907
-    },
-    {
-      "date": 20110730,
-      "comparison_type": 1686
-    },
-    {
-      "date": 20110731,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110801,
-      "comparison_type": 9924
-    },
-    {
-      "date": 20110802,
-      "comparison_type": 3776
-    },
-    {
-      "date": 20110803,
-      "comparison_type": 6485
-    },
-    {
-      "date": 20110804,
-      "comparison_type": 305
-    },
-    {
-      "date": 20110805,
-      "comparison_type": 7990
-    },
-    {
-      "date": 20110806,
-      "comparison_type": 2876
-    },
-    {
-      "date": 20110807,
-      "comparison_type": 9542
-    },
-    {
-      "date": 20110808,
-      "comparison_type": 4124
-    },
-    {
-      "date": 20110809,
-      "comparison_type": 4943
-    },
-    {
-      "date": 20110810,
-      "comparison_type": 1406
-    },
-    {
-      "date": 20110811,
-      "comparison_type": 3553
-    },
-    {
-      "date": 20110812,
-      "comparison_type": 5227
-    },
-    {
-      "date": 20110813,
-      "comparison_type": 6772
-    },
-    {
-      "date": 20110814,
-      "comparison_type": 3411
-    },
-    {
-      "date": 20110815,
-      "comparison_type": 2743
-    },
-    {
-      "date": 20110816,
-      "comparison_type": 2526
-    },
-    {
-      "date": 20110817,
-      "comparison_type": 7236
-    },
-    {
-      "date": 20110818,
-      "comparison_type": 4364
-    },
-    {
-      "date": 20110819,
-      "comparison_type": 180
-    },
-    {
-      "date": 20110820,
-      "comparison_type": 4561
-    },
-    {
-      "date": 20110821,
-      "comparison_type": 3768
-    },
-    {
-      "date": 20110822,
-      "comparison_type": 4308
-    },
-    {
-      "date": 20110823,
-      "comparison_type": 6261
-    },
-    {
-      "date": 20110824,
-      "comparison_type": 7689
-    },
-    {
-      "date": 20110825,
-      "comparison_type": 6854
-    },
-    {
-      "date": 20110826,
-      "comparison_type": 9562
-    },
-    {
-      "date": 20110827,
-      "comparison_type": 133
-    },
-    {
-      "date": 20110828,
-      "comparison_type": 1375
-    },
-    {
-      "date": 20110829,
-      "comparison_type": 4242
-    },
-    {
-      "date": 20110830,
-      "comparison_type": 3474
-    },
-    {
-      "date": 20110831,
-      "comparison_type": 5080
-    },
-    {
-      "date": 20110901,
-      "comparison_type": 4664
-    },
-    {
-      "date": 20110902,
-      "comparison_type": 910
-    },
-    {
-      "date": 20110903,
-      "comparison_type": 9262
-    },
-    {
-      "date": 20110904,
-      "comparison_type": 5536
-    },
-    {
-      "date": 20110905,
-      "comparison_type": 9604
-    },
-    {
-      "date": 20110906,
-      "comparison_type": 7131
-    },
-    {
-      "date": 20110907,
-      "comparison_type": 3660
-    },
-    {
-      "date": 20110908,
-      "comparison_type": 8236
-    },
-    {
-      "date": 20110909,
-      "comparison_type": 4855
-    },
-    {
-      "date": 20110910,
-      "comparison_type": 964
-    },
-    {
-      "date": 20110911,
-      "comparison_type": 8617
-    },
-    {
-      "date": 20110912,
-      "comparison_type": 5524
-    },
-    {
-      "date": 20110913,
-      "comparison_type": 6707
-    },
-    {
-      "date": 20110914,
-      "comparison_type": 8828
-    },
-    {
-      "date": 20110915,
-      "comparison_type": 5719
-    },
-    {
-      "date": 20110916,
-      "comparison_type": 4972
-    },
-    {
-      "date": 20110917,
-      "comparison_type": 1256
-    },
-    {
-      "date": 20110918,
-      "comparison_type": 8530
-    },
-    {
-      "date": 20110919,
-      "comparison_type": 588
-    },
-    {
-      "date": 20110920,
-      "comparison_type": 76
-    },
-    {
-      "date": 20110921,
-      "comparison_type": 4262
-    },
-    {
-      "date": 20110922,
-      "comparison_type": 8707
-    },
-    {
-      "date": 20110923,
-      "comparison_type": 0
-    },
-    {
-      "date": 20110924,
-      "comparison_type": 4568
-    },
-    {
-      "date": 20110925,
-      "comparison_type": 7049
-    },
-    {
-      "date": 20110926,
-      "comparison_type": 6768
-    },
-    {
-      "date": 20110927,
-      "comparison_type": 2567
-    },
-    {
-      "date": 20110928,
-      "comparison_type": 9310
-    },
-    {
-      "date": 20110929,
-      "comparison_type": 176
-    },
-    {
-      "date": 20110930,
-      "comparison_type": 1121
-    },
-    {
-      "date": 20111001,
-      "comparison_type": 710
-    },
-    {
-      "date": 20111002,
-      "comparison_type": 5840
-    },
-    {
-      "date": 20111003,
-      "comparison_type": 7129
-    },
-    {
-      "date": 20111004,
-      "comparison_type": 5521
-    },
-    {
-      "date": 20111005,
-      "comparison_type": 2282
-    },
-    {
-      "date": 20111006,
-      "comparison_type": 691
-    },
-    {
-      "date": 20111007,
-      "comparison_type": 5678
-    },
-    {
-      "date": 20111008,
-      "comparison_type": 8783
-    },
-    {
-      "date": 20111009,
-      "comparison_type": 8895
-    },
-    {
-      "date": 20111010,
-      "comparison_type": 345
-    },
-    {
-      "date": 20111011,
-      "comparison_type": 6600
-    },
-    {
-      "date": 20111012,
-      "comparison_type": 238
-    },
-    {
-      "date": 20111013,
-      "comparison_type": 9711
-    },
-    {
-      "date": 20111014,
-      "comparison_type": 9714
-    },
-    {
-      "date": 20111015,
-      "comparison_type": 9194
-    },
-    {
-      "date": 20111016,
-      "comparison_type": 390
-    },
-    {
-      "date": 20111017,
-      "comparison_type": 5356
-    },
-    {
-      "date": 20111018,
-      "comparison_type": 7345
-    },
-    {
-      "date": 20111019,
-      "comparison_type": 3337
-    },
-    {
-      "date": 20111020,
-      "comparison_type": 9253
-    },
-    {
-      "date": 20111021,
-      "comparison_type": 9551
-    },
-    {
-      "date": 20111022,
-      "comparison_type": 8423
-    },
-    {
-      "date": 20111023,
-      "comparison_type": 34
-    },
-    {
-      "date": 20111024,
-      "comparison_type": 9692
-    },
-    {
-      "date": 20111025,
-      "comparison_type": 1742
-    },
-    {
-      "date": 20111026,
-      "comparison_type": 889
-    },
-    {
-      "date": 20111027,
-      "comparison_type": 4210
-    },
-    {
-      "date": 20111028,
-      "comparison_type": 1213
-    },
-    {
-      "date": 20111029,
-      "comparison_type": 7692
-    },
-    {
-      "date": 20111030,
-      "comparison_type": 3228
-    },
-    {
-      "date": 20111031,
-      "comparison_type": 8794
-    },
-    {
-      "date": 20111101,
-      "comparison_type": 183
-    },
-    {
-      "date": 20111102,
-      "comparison_type": 8988
-    },
-    {
-      "date": 20111103,
-      "comparison_type": 443
-    },
-    {
-      "date": 20111104,
-      "comparison_type": 9317
-    },
-    {
-      "date": 20111105,
-      "comparison_type": 3832
-    },
-    {
-      "date": 20111106,
-      "comparison_type": 6376
-    },
-    {
-      "date": 20111107,
-      "comparison_type": 6174
-    },
-    {
-      "date": 20111108,
-      "comparison_type": 0
-    },
-    {
-      "date": 20111109,
-      "comparison_type": 2743
-    },
-    {
-      "date": 20111110,
-      "comparison_type": 2760
-    },
-    {
-      "date": 20111111,
-      "comparison_type": 9367
-    },
-    {
-      "date": 20111112,
-      "comparison_type": 3221
-    },
-    {
-      "date": 20111113,
-      "comparison_type": 4092
-    },
-    {
-      "date": 20111114,
-      "comparison_type": 217
-    },
-    {
-      "date": 20111115,
-      "comparison_type": 2759
-    },
-    {
-      "date": 20111116,
-      "comparison_type": 5897
-    },
-    {
-      "date": 20111117,
-      "comparison_type": 9579
-    },
-    {
-      "date": 20111118,
-      "comparison_type": 7935
-    },
-    {
-      "date": 20111119,
-      "comparison_type": 178
-    },
-    {
-      "date": 20111120,
-      "comparison_type": 7450
-    },
-    {
-      "date": 20111121,
-      "comparison_type": 4219
-    },
-    {
-      "date": 20111122,
-      "comparison_type": 2881
-    },
-    {
-      "date": 20111123,
-      "comparison_type": 1296
-    },
-    {
-      "date": 20111124,
-      "comparison_type": 5231
-    },
-    {
-      "date": 20111125,
-      "comparison_type": 7944
-    },
-    {
-      "date": 20111126,
-      "comparison_type": 1203
-    },
-    {
-      "date": 20111127,
-      "comparison_type": 2149
-    },
-    {
-      "date": 20111128,
-      "comparison_type": 960
-    },
-    {
-      "date": 20111129,
-      "comparison_type": 1817
-    },
-    {
-      "date": 20111130,
-      "comparison_type": 7332
-    },
-    {
-      "date": 20111201,
-      "comparison_type": 5598
-    },
-    {
-      "date": 20111202,
-      "comparison_type": 7250
-    },
-    {
-      "date": 20111203,
-      "comparison_type": 9265
-    },
-    {
-      "date": 20111204,
-      "comparison_type": 5731
-    },
-    {
-      "date": 20111205,
-      "comparison_type": 7250
-    },
-    {
-      "date": 20111206,
-      "comparison_type": 4639
-    },
-    {
-      "date": 20111207,
-      "comparison_type": 5091
-    },
-    {
-      "date": 20111208,
-      "comparison_type": 3784
-    },
-    {
-      "date": 20111209,
-      "comparison_type": 1269
-    },
-    {
-      "date": 20111210,
-      "comparison_type": 5660
-    },
-    {
-      "date": 20111211,
-      "comparison_type": 3417
-    },
-    {
-      "date": 20111212,
-      "comparison_type": 2748
-    },
-    {
-      "date": 20111213,
-      "comparison_type": 4676
-    },
-    {
-      "date": 20111214,
-      "comparison_type": 1023
-    },
-    {
-      "date": 20111215,
-      "comparison_type": 0
-    },
-    {
-      "date": 20111216,
-      "comparison_type": 9298
-    },
-    {
-      "date": 20111217,
-      "comparison_type": 6058
-    },
-    {
-      "date": 20111218,
-      "comparison_type": 3848
-    },
-    {
-      "date": 20111219,
-      "comparison_type": 2188
-    },
-    {
-      "date": 20111220,
-      "comparison_type": 2248
-    },
-    {
-      "date": 20111221,
-      "comparison_type": 8378
-    },
-    {
-      "date": 20111222,
-      "comparison_type": 4660
-    },
-    {
-      "date": 20111223,
-      "comparison_type": 6680
-    },
-    {
-      "date": 20111224,
-      "comparison_type": 2374
-    },
-    {
-      "date": 20111225,
-      "comparison_type": 9909
-    },
-    {
-      "date": 20111226,
-      "comparison_type": 1519
-    },
-    {
-      "date": 20111227,
-      "comparison_type": 3377
-    },
-    {
-      "date": 20111228,
-      "comparison_type": 3349
-    },
-    {
-      "date": 20111229,
-      "comparison_type": 5318
-    },
-    {
-      "date": 20111230,
-      "comparison_type": 7768
-    },
-    {
-      "date": 20111231,
-      "comparison_type": 947
-    }
-  ]
+{"jsondata":[
+	{
+		"day": 1,
+		"hour": 1,
+		"value": 16
+	},
+	{
+		"day": 1,
+		"hour": 2,
+		"value": 20
+	},
+	{
+		"day": 1,
+		"hour": 3,
+		"value": 0
+	},
+	{
+		"day": 1,
+		"hour": 4,
+		"value": 0
+	},
+	{
+		"day": 1,
+		"hour": 5,
+		"value": 0
+	},
+	{
+		"day": 1,
+		"hour": 6,
+		"value": 2
+	},
+	{
+		"day": 1,
+		"hour": 7,
+		"value": 0
+	},
+	{
+		"day": 1,
+		"hour": 8,
+		"value": 9
+	},
+	{
+		"day": 1,
+		"hour": 9,
+		"value": 25
+	},
+	{
+		"day": 1,
+		"hour": 10,
+		"value": 49
+	},
+	{
+		"day": 1,
+		"hour": 11,
+		"value": 57
+	},
+	{
+		"day": 1,
+		"hour": 12,
+		"value": 61
+	},
+	{
+		"day": 1,
+		"hour": 13,
+		"value": 37
+	},
+	{
+		"day": 1,
+		"hour": 14,
+		"value": 66
+	},
+	{
+		"day": 1,
+		"hour": 15,
+		"value": 70
+	},
+	{
+		"day": 1,
+		"hour": 16,
+		"value": 55
+	},
+	{
+		"day": 1,
+		"hour": 17,
+		"value": 51
+	},
+	{
+		"day": 1,
+		"hour": 18,
+		"value": 55
+	},
+	{
+		"day": 1,
+		"hour": 19,
+		"value": 17
+	},
+	{
+		"day": 1,
+		"hour": 20,
+		"value": 20
+	},
+	{
+		"day": 1,
+		"hour": 21,
+		"value": 9
+	},
+	{
+		"day": 1,
+		"hour": 22,
+		"value": 4
+	},
+	{
+		"day": 1,
+		"hour": 23,
+		"value": 0
+	},
+	{
+		"day": 1,
+		"hour": 24,
+		"value": 12
+	},
+	{
+		"day": 2,
+		"hour": 1,
+		"value": 6
+	},
+	{
+		"day": 2,
+		"hour": 2,
+		"value": 2
+	},
+	{
+		"day": 2,
+		"hour": 3,
+		"value": 0
+	},
+	{
+		"day": 2,
+		"hour": 4,
+		"value": 0
+	},
+	{
+		"day": 2,
+		"hour": 5,
+		"value": 0
+	},
+	{
+		"day": 2,
+		"hour": 6,
+		"value": 2
+	},
+	{
+		"day": 2,
+		"hour": 7,
+		"value": 4
+	},
+	{
+		"day": 2,
+		"hour": 8,
+		"value": 11
+	},
+	{
+		"day": 2,
+		"hour": 9,
+		"value": 28
+	},
+	{
+		"day": 2,
+		"hour": 10,
+		"value": 49
+	},
+	{
+		"day": 2,
+		"hour": 11,
+		"value": 51
+	},
+	{
+		"day": 2,
+		"hour": 12,
+		"value": 47
+	},
+	{
+		"day": 2,
+		"hour": 13,
+		"value": 38
+	},
+	{
+		"day": 2,
+		"hour": 14,
+		"value": 65
+	},
+	{
+		"day": 2,
+		"hour": 15,
+		"value": 60
+	},
+	{
+		"day": 2,
+		"hour": 16,
+		"value": 50
+	},
+	{
+		"day": 2,
+		"hour": 17,
+		"value": 65
+	},
+	{
+		"day": 2,
+		"hour": 18,
+		"value": 50
+	},
+	{
+		"day": 2,
+		"hour": 19,
+		"value": 22
+	},
+	{
+		"day": 2,
+		"hour": 20,
+		"value": 11
+	},
+	{
+		"day": 2,
+		"hour": 21,
+		"value": 12
+	},
+	{
+		"day": 2,
+		"hour": 22,
+		"value": 9
+	},
+	{
+		"day": 2,
+		"hour": 23,
+		"value": 0
+	},
+	{
+		"day": 2,
+		"hour": 24,
+		"value": 13
+	},
+	{
+		"day": 3,
+		"hour": 1,
+		"value": 5
+	},
+	{
+		"day": 3,
+		"hour": 2,
+		"value": 8
+	},
+	{
+		"day": 3,
+		"hour": 3,
+		"value": 8
+	},
+	{
+		"day": 3,
+		"hour": 4,
+		"value": 0
+	},
+	{
+		"day": 3,
+		"hour": 5,
+		"value": 0
+	},
+	{
+		"day": 3,
+		"hour": 6,
+		"value": 2
+	},
+	{
+		"day": 3,
+		"hour": 7,
+		"value": 5
+	},
+	{
+		"day": 3,
+		"hour": 8,
+		"value": 12
+	},
+	{
+		"day": 3,
+		"hour": 9,
+		"value": 34
+	},
+	{
+		"day": 3,
+		"hour": 10,
+		"value": 43
+	},
+	{
+		"day": 3,
+		"hour": 11,
+		"value": 54
+	},
+	{
+		"day": 3,
+		"hour": 12,
+		"value": 44
+	},
+	{
+		"day": 3,
+		"hour": 13,
+		"value": 40
+	},
+	{
+		"day": 3,
+		"hour": 14,
+		"value": 48
+	},
+	{
+		"day": 3,
+		"hour": 15,
+		"value": 54
+	},
+	{
+		"day": 3,
+		"hour": 16,
+		"value": 59
+	},
+	{
+		"day": 3,
+		"hour": 17,
+		"value": 60
+	},
+	{
+		"day": 3,
+		"hour": 18,
+		"value": 51
+	},
+	{
+		"day": 3,
+		"hour": 19,
+		"value": 21
+	},
+	{
+		"day": 3,
+		"hour": 20,
+		"value": 16
+	},
+	{
+		"day": 3,
+		"hour": 21,
+		"value": 9
+	},
+	{
+		"day": 3,
+		"hour": 22,
+		"value": 5
+	},
+	{
+		"day": 3,
+		"hour": 23,
+		"value": 4
+	},
+	{
+		"day": 3,
+		"hour": 24,
+		"value": 7
+	},
+	{
+		"day": 4,
+		"hour": 1,
+		"value": 0
+	},
+	{
+		"day": 4,
+		"hour": 2,
+		"value": 0
+	},
+	{
+		"day": 4,
+		"hour": 3,
+		"value": 0
+	},
+	{
+		"day": 4,
+		"hour": 4,
+		"value": 0
+	},
+	{
+		"day": 4,
+		"hour": 5,
+		"value": 0
+	},
+	{
+		"day": 4,
+		"hour": 6,
+		"value": 2
+	},
+	{
+		"day": 4,
+		"hour": 7,
+		"value": 4
+	},
+	{
+		"day": 4,
+		"hour": 8,
+		"value": 13
+	},
+	{
+		"day": 4,
+		"hour": 9,
+		"value": 26
+	},
+	{
+		"day": 4,
+		"hour": 10,
+		"value": 58
+	},
+	{
+		"day": 4,
+		"hour": 11,
+		"value": 61
+	},
+	{
+		"day": 4,
+		"hour": 12,
+		"value": 59
+	},
+	{
+		"day": 4,
+		"hour": 13,
+		"value": 53
+	},
+	{
+		"day": 4,
+		"hour": 14,
+		"value": 54
+	},
+	{
+		"day": 4,
+		"hour": 15,
+		"value": 64
+	},
+	{
+		"day": 4,
+		"hour": 16,
+		"value": 55
+	},
+	{
+		"day": 4,
+		"hour": 17,
+		"value": 52
+	},
+	{
+		"day": 4,
+		"hour": 18,
+		"value": 53
+	},
+	{
+		"day": 4,
+		"hour": 19,
+		"value": 18
+	},
+	{
+		"day": 4,
+		"hour": 20,
+		"value": 3
+	},
+	{
+		"day": 4,
+		"hour": 21,
+		"value": 9
+	},
+	{
+		"day": 4,
+		"hour": 22,
+		"value": 12
+	},
+	{
+		"day": 4,
+		"hour": 23,
+		"value": 2
+	},
+	{
+		"day": 4,
+		"hour": 24,
+		"value": 8
+	},
+	{
+		"day": 5,
+		"hour": 1,
+		"value": 2
+	},
+	{
+		"day": 5,
+		"hour": 2,
+		"value": 0
+	},
+	{
+		"day": 5,
+		"hour": 3,
+		"value": 8
+	},
+	{
+		"day": 5,
+		"hour": 4,
+		"value": 2
+	},
+	{
+		"day": 5,
+		"hour": 5,
+		"value": 0
+	},
+	{
+		"day": 5,
+		"hour": 6,
+		"value": 2
+	},
+	{
+		"day": 5,
+		"hour": 7,
+		"value": 4
+	},
+	{
+		"day": 5,
+		"hour": 8,
+		"value": 14
+	},
+	{
+		"day": 5,
+		"hour": 9,
+		"value": 31
+	},
+	{
+		"day": 5,
+		"hour": 10,
+		"value": 48
+	},
+	{
+		"day": 5,
+		"hour": 11,
+		"value": 46
+	},
+	{
+		"day": 5,
+		"hour": 12,
+		"value": 50
+	},
+	{
+		"day": 5,
+		"hour": 13,
+		"value": 66
+	},
+	{
+		"day": 5,
+		"hour": 14,
+		"value": 54
+	},
+	{
+		"day": 5,
+		"hour": 15,
+		"value": 56
+	},
+	{
+		"day": 5,
+		"hour": 16,
+		"value": 67
+	},
+	{
+		"day": 5,
+		"hour": 17,
+		"value": 54
+	},
+	{
+		"day": 5,
+		"hour": 18,
+		"value": 23
+	},
+	{
+		"day": 5,
+		"hour": 19,
+		"value": 14
+	},
+	{
+		"day": 5,
+		"hour": 20,
+		"value": 6
+	},
+	{
+		"day": 5,
+		"hour": 21,
+		"value": 8
+	},
+	{
+		"day": 5,
+		"hour": 22,
+		"value": 7
+	},
+	{
+		"day": 5,
+		"hour": 23,
+		"value": 0
+	},
+	{
+		"day": 5,
+		"hour": 24,
+		"value": 8
+	},
+	{
+		"day": 6,
+		"hour": 1,
+		"value": 2
+	},
+	{
+		"day": 6,
+		"hour": 2,
+		"value": 0
+	},
+	{
+		"day": 6,
+		"hour": 3,
+		"value": 2
+	},
+	{
+		"day": 6,
+		"hour": 4,
+		"value": 0
+	},
+	{
+		"day": 6,
+		"hour": 5,
+		"value": 0
+	},
+	{
+		"day": 6,
+		"hour": 6,
+		"value": 0
+	},
+	{
+		"day": 6,
+		"hour": 7,
+		"value": 4
+	},
+	{
+		"day": 6,
+		"hour": 8,
+		"value": 8
+	},
+	{
+		"day": 6,
+		"hour": 9,
+		"value": 8
+	},
+	{
+		"day": 6,
+		"hour": 10,
+		"value": 6
+	},
+	{
+		"day": 6,
+		"hour": 11,
+		"value": 14
+	},
+	{
+		"day": 6,
+		"hour": 12,
+		"value": 12
+	},
+	{
+		"day": 6,
+		"hour": 13,
+		"value": 9
+	},
+	{
+		"day": 6,
+		"hour": 14,
+		"value": 14
+	},
+	{
+		"day": 6,
+		"hour": 15,
+		"value": 0
+	},
+	{
+		"day": 6,
+		"hour": 16,
+		"value": 4
+	},
+	{
+		"day": 6,
+		"hour": 17,
+		"value": 7
+	},
+	{
+		"day": 6,
+		"hour": 18,
+		"value": 6
+	},
+	{
+		"day": 6,
+		"hour": 19,
+		"value": 0
+	},
+	{
+		"day": 6,
+		"hour": 20,
+		"value": 0
+	},
+	{
+		"day": 6,
+		"hour": 21,
+		"value": 0
+	},
+	{
+		"day": 6,
+		"hour": 22,
+		"value": 0
+	},
+	{
+		"day": 6,
+		"hour": 23,
+		"value": 0
+	},
+	{
+		"day": 6,
+		"hour": 24,
+		"value": 0
+	},
+	{
+		"day": 7,
+		"hour": 1,
+		"value": 7
+	},
+	{
+		"day": 7,
+		"hour": 2,
+		"value": 6
+	},
+	{
+		"day": 7,
+		"hour": 3,
+		"value": 0
+	},
+	{
+		"day": 7,
+		"hour": 4,
+		"value": 0
+	},
+	{
+		"day": 7,
+		"hour": 5,
+		"value": 0
+	},
+	{
+		"day": 7,
+		"hour": 6,
+		"value": 0
+	},
+	{
+		"day": 7,
+		"hour": 7,
+		"value": 0
+	},
+	{
+		"day": 7,
+		"hour": 8,
+		"value": 0
+	},
+	{
+		"day": 7,
+		"hour": 9,
+		"value": 0
+	},
+	{
+		"day": 7,
+		"hour": 10,
+		"value": 0
+	},
+	{
+		"day": 7,
+		"hour": 11,
+		"value": 2
+	},
+	{
+		"day": 7,
+		"hour": 12,
+		"value": 2
+	},
+	{
+		"day": 7,
+		"hour": 13,
+		"value": 5
+	},
+	{
+		"day": 7,
+		"hour": 14,
+		"value": 6
+	},
+	{
+		"day": 7,
+		"hour": 15,
+		"value": 0
+	},
+	{
+		"day": 7,
+		"hour": 16,
+		"value": 4
+	},
+	{
+		"day": 7,
+		"hour": 17,
+		"value": 0
+	},
+	{
+		"day": 7,
+		"hour": 18,
+		"value": 2
+	},
+	{
+		"day": 7,
+		"hour": 19,
+		"value": 10
+	},
+	{
+		"day": 7,
+		"hour": 20,
+		"value": 7
+	},
+	{
+		"day": 7,
+		"hour": 21,
+		"value": 0
+	},
+	{
+		"day": 7,
+		"hour": 22,
+		"value": 19
+	},
+	{
+		"day": 7,
+		"hour": 23,
+		"value": 9
+	},
+	{
+		"day": 7,
+		"hour": 24,
+		"value": 4
+	}
+]
 }
